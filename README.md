@@ -1,4 +1,6 @@
 <H1>Domino's Pizza Sales Analysis</H1>
+<img src="https://github.com/AnshulChauhan19/Domino-s-Sales-Analysis/blob/main/dominos.jfif" alt="Domino's Logo" width="600">
+
 
 This project involves creating a Power BI Dashboard to analyze and optimize Domino's Pizza sales. The dashboard provides insights into customer traffic trends, order patterns, revenue, and menu performance, helping to enhance staffing, inventory management, and marketing strategies.
 
