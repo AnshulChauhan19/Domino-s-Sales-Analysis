@@ -21,8 +21,10 @@ This project involves creating a Power BI Dashboard to analyze and optimize Domi
 https://github.com/AnshulChauhan19/Domino-s-Sales-Analysis/blob/main/SQL_QUERIES.pdf
 
 
-<h2>PowerBI Dashboard:</h2>
-<h3>Home:</h3>
+## PowerBI Dashboard:
+
+### Home:
 ![Home Dashboard](https://github.com/AnshulChauhan19/Domino-s-Sales-Analysis/raw/main/Home.PNG)
-<h3>Best/Worst Seller</h3>
+
+### Best/Worst Seller:
 ![Seller Dashboard](https://github.com/AnshulChauhan19/Domino-s-Sales-Analysis/raw/main/Seller.PNG)
