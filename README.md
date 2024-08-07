@@ -16,3 +16,13 @@ This project involves creating a Power BI Dashboard to analyze and optimize Domi
 <h3>SQL:</h3> For extracting, manipulating, and analyzing sales data.
 <h3>SQL Server:</h3> For managing the dataset and ensuring efficient data storage and retrieval.
 <h3>Power BI:</h3> For creating interactive and visually appealing dashboards to present key insights.
+
+<h2>SQL Analysis:</h2>
+https://github.com/AnshulChauhan19/Domino-s-Sales-Analysis/blob/main/SQL_QUERIES.pdf
+
+
+<h2>PowerBI Dashboard:</h2>
+<h3>Home:</h3>
+![Home Dashboard](https://github.com/AnshulChauhan19/Domino-s-Sales-Analysis/raw/main/Home.PNG)
+<h3>Best/Worst Seller</h3>
+![Seller Dashboard](https://github.com/AnshulChauhan19/Domino-s-Sales-Analysis/raw/main/Seller.PNG)
